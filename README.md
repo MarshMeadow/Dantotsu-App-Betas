@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="[dantotsu_logo-f1s](https://github.com/MarshMeadow/Dantotsu-App-Betas/assets/88599122/09142184-d1a6-4e17-992c-583ea2190a73)" alt="Dantotsu Banner" width=90% >
+   <img src=[dantotsu_logo-f1s](https://github.com/MarshMeadow/Dantotsu-App-Betas/assets/88599122/09142184-d1a6-4e17-992c-583ea2190a73) alt="Dantotsu Banner" width=90% >
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/platforms-android-blueviolet?style=for-the-badge"/>
