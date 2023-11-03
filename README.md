@@ -11,7 +11,7 @@
 
 Dantotsu is crafted from the ashes of Saikou and is based on simplistic yet state-of-the-art elegance. It's an 🎌 [Anilist](https://anilist.co/) only client, offering the ability to stream and download Anime & Manga through extensions.
 
-This is to keep your stable and beta Dantotsu apps (apk) install separete or not together..
+**NEW: This is to keep your stable and beta Dantotsu apps (apk) install separete or not together..**
 
 > **Dantotsu (断トツ; Dan-totsu)** literally means "the best of the best" in Japanese. Try it out for yourself and be the judge!
 
@@ -27,9 +27,9 @@ This is to keep your stable and beta Dantotsu apps (apk) install separete or not
 
 | Type             | Status  |
 | ---------------- | ------- |
-| Anime Extensions | Working |
-| Manga Extensions | Working |
-| Light Novel Extensions | Not Working |
+| Anime Extensions | ... |
+| Manga Extensions | ... |
+| Light Novel Extensions | ... |
 
 ## APP FEATURES 📱
 
@@ -47,9 +47,7 @@ This is to keep your stable and beta Dantotsu apps (apk) install separete or not
 
 ## PLANNED STUFF 📝
 
-- TV Support 📺
-- LN Support 📖
-- Offline Viewing 📦
+- Join the discord to see what's up! 
 
 ## REJECTED STUFF (still rejected) ❌
 
@@ -73,7 +71,7 @@ You can come hang out with our awesome community, request new features, and repo
 
 ### VISIT FOR MORE INFORMATION 🌐
 
-No website yet (WIP)😔
+Website: https://dantotsu.app
 
 ## DISCLAIMER 🚫
 
