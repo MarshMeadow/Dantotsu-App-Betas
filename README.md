@@ -7,7 +7,7 @@
    <a href="https://github.com/rebelonion/Dantotsu/releases"><img src="https://img.shields.io/github/downloads/rebelonion/Dantotsu/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 </p>
 
-# **Dantotsu** 🌟
+# **Dantotsu Betas** 🌟
 
 Dantotsu is crafted from the ashes of Saikou and is based on simplistic yet state-of-the-art elegance. It's an 🎌 [Anilist](https://anilist.co/) only client, offering the ability to stream and download Anime & Manga through extensions.
 
