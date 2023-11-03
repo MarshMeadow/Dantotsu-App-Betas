@@ -11,7 +11,7 @@
 
 Dantotsu is crafted from the ashes of Saikou and is based on simplistic yet state-of-the-art elegance. It's an 🎌 [Anilist](https://anilist.co/) only client, offering the ability to stream and download Anime & Manga through extensions.
 
-**NEW: This is to keep your stable and beta Dantotsu apps (apk) install separete or not together..**
+**PLEASE READ: NEW: This is to keep your stable and beta Dantotsu apps (apk) install separete or not together..**
 
 > **Dantotsu (断トツ; Dan-totsu)** literally means "the best of the best" in Japanese. Try it out for yourself and be the judge!
 
