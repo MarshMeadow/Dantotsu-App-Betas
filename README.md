@@ -1,5 +1,5 @@
 <p align="center">
-</p> ![LncBUu4c](https://github.com/MarshMeadow/Dantotsu-App-Betas/assets/88599122/27e18607-6682-4626-a103-12336cef1370)
+</p>
 <p align="center">
    <img src="https://img.shields.io/badge/platforms-android-blueviolet?style=for-the-badge"/>
    <a href="https://discord.gg/4HPZ5nAWwM"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
