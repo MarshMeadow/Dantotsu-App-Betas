@@ -8,7 +8,7 @@
 
 # **Dantotsu Betas** 🌟
 
-**PLEASE READ: NEW: This is to keep your stable and beta Dantotsu apps (APKs) installed separately or not together..**
+**PLEASE READ: NEW: This is to keep your beta and stable Dantotsu apps (APKs) installed separately or not together..**
 
 Dantotsu is crafted from the ashes of Saikou and is based on simplistic yet state-of-the-art elegance. It's an 🎌 [Anilist](https://anilist.co/) only client, offering the ability to stream and download Anime & Manga through extensions.
 
