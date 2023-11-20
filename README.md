@@ -14,7 +14,7 @@ PLEASE READ: NOTE THAT YOU WILL NEED TO COME BACK TO THIS, I MEAN THIS GITHUB RE
 
 **PLEASE READ: NEW: This is to keep your beta and stable Dantotsu apps (APKs) installed separately or not together..**
 
-**Update**
+**Updates**
 
 - Official Separate App Apk coming soon! 
 - Check the updates on discord! 
