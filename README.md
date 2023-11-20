@@ -20,6 +20,7 @@ PLEASE READ: NOTE THAT YOU WILL NEED TO COME BACK TO THIS, I MEAN THIS GITHUB RE
 - Check the updates on discord! 
 
 **About:**
+
 Dantotsu is crafted from the ashes of Saikou and is based on simplistic yet state-of-the-art elegance. It's an 🎌 [Anilist](https://anilist.co/) only client, offering the ability to stream and download Anime & Manga through extensions.
 
 > **Dantotsu (断トツ; Dan-totsu)** literally means "the best of the best" in Japanese. Try it out for yourself and be the judge!
