@@ -16,8 +16,8 @@ PLEASE READ: NOTE THAT YOU WILL NEED TO COME BACK TO THIS, I MEAN THIS GITHUB RE
 
 # **Updates**
 
-- Official Separate App Apk coming soon! 
-- Check the updates on discord! 
+- Official Separate App Apk OUT NOW! [GO HERE](https://github.com/MarshMeadow/dantotsu-betas/releases/tag/final)
+- Check the updates on [Discord!](https://discord.com/invite/4HPZ5nAWwM) 
 
 # **About:**
 
