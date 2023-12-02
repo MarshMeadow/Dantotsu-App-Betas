@@ -76,7 +76,7 @@ You can come hang out with our awesome community, request new features, and repo
 ### OFFICIAL DISCORD SERVER 🚀
 
 <p align="center">
-   <a href="https://discord.gg/4HPZ5nAWwM">
+   <a href="https://discord.com/invite/E4Ezmgg7Ka">
       <img src="https://invidget.switchblade.xyz/4HPZ5nAWwM">
    </a>
 </p>
